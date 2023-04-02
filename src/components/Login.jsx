@@ -55,6 +55,8 @@ const Nav = styled.nav`
   }
 `;
 const Join = styled.a`
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 16px;
   padding: 10px 12px;
   text-decoration: none;
@@ -68,6 +70,8 @@ const Join = styled.a`
   }
 `;
 const SignIn = styled.a`
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Poppins', sans-serif;
   box-shadow: inset 0 0 0 1px #0a66c2;
   color: #0a66c2;
   border-radius: 24px;
@@ -104,6 +108,8 @@ const Section = styled.section`
 const Hero = styled.div`
   width: 100%;
   h1 {
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Poppins', sans-serif;
     padding-bottom: 0;
     width: 55%;
     font-size: 56px;
@@ -139,6 +145,8 @@ const Form = styled.div`
   }
 `;
 const Google = styled.button`
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Poppins', sans-serif;
   display: flex;
   justify-content: center;
   background-color: #fff;
