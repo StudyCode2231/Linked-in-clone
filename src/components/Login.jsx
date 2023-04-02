@@ -35,9 +35,7 @@ const Login = (props) => {
     </Container>
   );
 };
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&family=Poppins:wght@600&display=swap');
-</style>
+
 const Container = styled.div`
   padding: 0px;
 `;
