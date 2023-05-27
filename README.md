@@ -1,4 +1,4 @@
-# Linkedin-Clone_Redux
+# Linkedin-Clone
 
 1. **Choose a hosting platform:** There are many hosting platforms available for ReactJS applications, such as Netlify. Choose a platform that meets your needs and budget.
 2. **Build the app for production:** Use the `npm run build` command to create a production-ready build of your ReactJS app. This will create a `build` folder containing the optimized code and assets.
